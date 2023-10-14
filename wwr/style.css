@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&family=Roboto:ital,wght@1,100&family=Rock+Salt&display=swap');
 
 body, .home-title, .msg h2 {
     font-family: cursive;
@@ -117,7 +117,8 @@ footer p a:hover {
     color: #eb9d6d;
 }
 .msg {
-    background-color: #eb9d6d;
+    background-color: #6f7364;
+    line-height: 1.5em;
 }
 .msg h2 {
     color: #114b5f;
@@ -125,6 +126,7 @@ footer p a:hover {
 .msg p {
     color: #114b5f;
     padding-bottom: 15px;
+    font-size: .8em;
 }
 .home-title {
     color: #114b5f;
@@ -141,14 +143,17 @@ footer p a:hover {
     padding-top: 15px;
 }
 .rivers-card, .camping-card, .rapids-card {
-   margin: 200px; 
+   margin: 200px 0; 
 }
 .card-img {
     border: 10px #000;
 }
-#logo_link {
-    padding-top: 5px;
-}
 footer .social img {
     padding-top: 15px
+}
+.river img {
+    text-align: center;
+}
+footer .social img {
+    padding-top: 15px;
 }
