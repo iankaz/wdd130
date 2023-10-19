@@ -1,13 +1,15 @@
 head {text-align: center;
-color: blueviolet;}
+color: blueviolet;
+justify-content: center;
+}
 
 main {background-color: steelblue;
 padding: 10px;}
 
-img {width: 800px;
+img {width: 600px;
 border: 4px;}
 
-p {padding: 10px;}
+p {padding: 20px;}
 
-footer {background-color: whitesmoke;
+footer {background-color: rgb(199, 25, 25);
 color: black;}
